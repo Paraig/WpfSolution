@@ -1,0 +1,10 @@
+C:\Arbeit\KPMG\Assignment\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+C:\Arbeit\KPMG\Assignment\Interfaces\bin\Debug\Interfaces.dll
+C:\Arbeit\KPMG\Assignment\Interfaces\bin\Debug\Interfaces.pdb
+C:\Arbeit\KPMG\Assignment\Interfaces\obj\Debug\Interfaces.dll
+C:\Arbeit\KPMG\Assignment\Interfaces\obj\Debug\Interfaces.pdb
+C:\Arbeit\KPMG\WpfSolution\Interfaces\bin\Debug\Interfaces.dll
+C:\Arbeit\KPMG\WpfSolution\Interfaces\bin\Debug\Interfaces.pdb
+C:\Arbeit\KPMG\WpfSolution\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+C:\Arbeit\KPMG\WpfSolution\Interfaces\obj\Debug\Interfaces.dll
+C:\Arbeit\KPMG\WpfSolution\Interfaces\obj\Debug\Interfaces.pdb

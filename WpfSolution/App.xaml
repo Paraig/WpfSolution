@@ -1,0 +1,18 @@
+﻿<Application x:Class="WpfSolution.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:WpfSolution"
+             xmlns:common="clr-namespace:WpfSolution.Helpers"
+             xmlns:vm="clr-namespace:WpfSolution.ViewModels"
+             xmlns:views="clr-namespace:WpfSolution.Controls"
+             >
+    <!--<StartupUri="MainWindow.xaml"/>-->
+    <Application.Resources>
+        <DataTemplate DataType="{x:Type vm:TransactionsListVm}">
+            <views:TransactionsListView/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type vm:FileUploadVm}">
+            <views:FileUploadView/>
+        </DataTemplate>
+    </Application.Resources>
+</Application>
